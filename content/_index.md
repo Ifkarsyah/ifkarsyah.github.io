@@ -32,51 +32,57 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Knowledge Garden'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        With my background in computer science, I dream a life where I master the art of simplicity, harmoniously managing my possessions, relationships, and knowledge, while continually growing and contributing to both the tech community.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My mission is to:
+
+        1. **Simplify Complexity**: Utilize my computer science knowledge to streamline processes, eliminate clutter, and bring clarity to the intricate challenges I encounter in my personal and professional life.
+        2. **Excel in Software Engineering**: Excel in my software engineering career by continually expanding my skills, staying up-to-date, and delivering impactful solutions that make a difference in the lives of users.
+        3. **Champion Personal Knowledge Management**: Dedicate myself to mastering personal knowledge management, seamlessly integrating physical and digital assets, organizing information, and harnessing the power of well-structured knowledge to drive innovation and personal growth.
+        4. **Share Wisdom**: Actively contribute to the tech community by sharing my expertise, insights, and experiences, inspiring others to lead simpler, more fulfilling lives while leveraging technology's potential.
         
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+
   - block: collection
-    id: papers
+    id: blogs
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
+      title: Recent Articles
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -102,6 +108,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
