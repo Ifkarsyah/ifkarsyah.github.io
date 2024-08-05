@@ -83,7 +83,7 @@ work:
     company_url: 'https://www.xendit.co/en/'
     company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1PjQagXJnoUqy0ZdzThs5XETP_ncL918pQ&s'
     date_start: 2022-10-01
-    date_end: 2024-04-31
+    date_end: 2024-03-31
     summary: |
       Responsibilities include:
       - Setup data infrastructure
