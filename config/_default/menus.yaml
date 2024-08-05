@@ -16,6 +16,6 @@ main:
   - name: Courses
     url: courses/
     weight: 40
-    - name: Blogs
+  - name: Blogs
     url: /blogs
     weight: 50
