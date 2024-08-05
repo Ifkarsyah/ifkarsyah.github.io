@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Ifkarsyah
+title: Ferdian Ifkarsyah
 
 # Name pronunciation (optional)
-name_pronunciation: Ferdian Ifkarsyah
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Ferdian
@@ -23,89 +23,101 @@ highlight_name: true
 role: Data Infrastructure Engineer
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Ifkarsyah
-    url: https://ifkarsyah.github.io
+# organizations:
+#   - name: Ifkarsyah
+#     url: https://ifkarsyah.github.io
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: at-symbol
+  #   url: 'mailto:your-email@example.com'
+  #   label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ifkarsyah
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/ifkarsyah
+  - icon: brands/x
+    url: https://twitter.com/ifkarsyah
+  - icon: brands/instagram
+    url: https://www.instagram.com/ifkarsyah
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - System Design
+  - Data Infrastructure
+  - Database Engineering
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science
+    institution: Bandung Institute of Technology
+    date_start: 2017-08-01
+    date_end: 2021-10-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis on _Optimized why to learn Japanese Kanji using Knowledge Graph_. Supervised by [Prof Joe Smith](https://example.com). 
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Operating System
+      - Parallel and Distributed System
+      - Database System
+      - Big Data
+    button:
+      text: 'Read Final Thesis'
+      url: 'https://example.com'
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Fazz
+    company_name: Data Infrastructure Engineer 2
+    company_url: 'https://fazz.com/'
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckxZrcZeAqB1rHHE60WdukB5KAg0q_1hk0w&s'
+    date_start: 2024-05-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Reduced RDS pipeline steps from 5 to 3 by eliminating redundant copy steps and developed a Terraform module for automating GCP Storage Transfer creation.
+      - Minimized load on the production database by migrating recurring ad-hoc analytics queries to BigQuery
+  - position: L4 Data Infrastructure Engineer
+    company_name: Xendit
+    company_url: 'https://www.xendit.co/en/'
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1PjQagXJnoUqy0ZdzThs5XETP_ncL918pQ&s'
+    date_start: 2022-10-01
+    date_end: 2024-04-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Setup data infrastructure
+      - Cost optimization
+      - Knowledge sharing
+      Accomplishments: 
+      - Achieved $7,400 monthly cost reduction by transitioning Trino from multizone to active-standby architecture.
+      - Provisioned Kubernetes cluster from scratch, and migrated Trino from EMR, resulting in 80% cost reduction
+      - Developed a Web UI to team’s data platform using Flask API and Retool, reducing manual ticket by 90%.
+      - Implemented instance right-sizing strategies and reserved instances, resulting in a $2,300 monthly cost reduction
+  - position: L3 Data Engineer
+    company_name: Xendit
+    company_url: 'https://www.xendit.co/en/'
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1PjQagXJnoUqy0ZdzThs5XETP_ncL918pQ&s'
+    date_start: 2021-10-01
+    date_end: 2022-10-01
+    summary: |
+      Accomplishments: 
+      - Accelerated user journey analysis by 10x by shifting from batch event tracking to real-time using Kafka.
+      - Optimized pipeline queue time by 60% using Airflow TaskGroup to group and manage heavy workload tasks.
+      - Automated Spark clusters provisioning using Terraform reduced processing time from 2 days to 10 minutes.
+      - Developed a system to ensure heavy dbt pipelines includes partitioning key, minimizing full table scans by 20%
+  - position: L2 Junior Data Engineer
+    company_name: Xendit
+    company_url: 'https://www.xendit.co/en/'
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1PjQagXJnoUqy0ZdzThs5XETP_ncL918pQ&s'
+    date_start: 2021-03-01
+    date_end: 2021-10-01
+    summary: |
+      Accomplishments: 
+      - Introduced Presto long query alerting system that reduced p99 query time from 2 minutes to 30 seconds.
+      - Integrated 2000+ lines of custom Python ETL code contributed by multiple users into a centralized library.
+      - Developed a Web UI to team’s data platform using Flask API and Retool, reducing manual ticket by 90%.
+      - Ingested 100+ tables from PostgreSQL and MongoDB across the companies into data lakehouse.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -144,43 +156,40 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Indonesia
+    percent: 100
+  - name: Malay
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: '(National) First Place, Tokopedia DevCamp 2021'
+    url: https://academy.tokopedia.com/events/dev-camp/
+    date: '2021-09-01'
+    awarder: Tokopedia
+    icon: tokopedia
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+      Won the hackathon competition out of 4000 contestants by creating \href{https://github.com/ifkarsyah/pasin}{Pasin}, a web service to recommend the best clothing sizes for marketplace customers.
+  - title: 'Finalist, SEA Compfest 2020'
+    url: https://compfest.id/
+    date: '2020-08-01'
     awarder: edX
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+      Selected as one of 20 participants from more than 600 applicants to study agile software engineering, docker, microservices, docker, and DevOps. 
+  - title: 'Finalist, ACM-ICPC Asia Jakarta Regional 2019'
+    url: https://competition.binus.ac.id/icpc2019/
+    certificate_url: https://competition.binus.ac.id/icpc2019/
+    date: '2019-08-01'
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Advanced to finals through competition between more than 500 teams. Codes with C++ for competitive programming.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm a Software Engineer focused on data infrastructure. I develop and deploy big data software on Kubernetes clusters using tools like Apache Trino, Helm, ArgoCD, and Terraform. My job involves improving query performance and scalability for data analytics platforms while ensuring proper data access and security for each product team. With three years of experience in data engineering, I've work with languages like Python, Java, Go, and Scala. I also love sharing what I know on my blog, where I write about data engineering, big data, and related topics. I'm really passionate about optimizing data infrastructure and tackling complex data problems.
