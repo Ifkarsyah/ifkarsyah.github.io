@@ -20,17 +20,30 @@ sections:
         url: uploads/resume.pdf
   - block: markdown
     content:
-      title: '📚 Knowledge Garden'
+      title: '📚 Tech Stack'
       subtitle: ''
       text: |-
-        With my background in computer science, I dream a life where I master the art of simplicity, harmoniously managing my possessions, relationships, and knowledge, while continually growing and contributing to both the tech community.
+        I am a versatile engineer with extensive experience in backend development, data engineering, and infrastructure management. My tech stack reflects my expertise in various technologies and tools that ensure efficient, scalable, and reliable systems. Here's a detailed overview of my chosen tech stack:
+        
+        **Data Engineering**
+        - Batch Pipeline: Apache Spark, Apache Airflow, dbt
+        - Streaming Pipeline: Apache Kafka, Apache Flink
+        - File Format: Apache Parquet, Protobuf
+        - Table Format: Delta Lake, Apache Iceberg
+        - Query Engine: Trino, BigQuery
 
-        My mission is to:
+        **Backend Engineering**
+        - Language: Python, Go, Java, Node.js
+        - API: REST, gRPC
+        - Database: PostgreSQL, MongoDB
+        - Search Engine: Elasticsearch
+        - Services Communication: Apache Kafka, RabbitMQ
 
-        1. **Simplify Complexity**: Utilize my computer science knowledge to streamline processes, eliminate clutter, and bring clarity to the intricate challenges I encounter in my personal and professional life.
-        2. **Excel in Software Engineering**: Excel in my software engineering career by continually expanding my skills, staying up-to-date, and delivering impactful solutions that make a difference in the lives of users.
-        3. **Champion Personal Knowledge Management**: Dedicate myself to mastering personal knowledge management, seamlessly integrating physical and digital assets, organizing information, and harnessing the power of well-structured knowledge to drive innovation and personal growth.
-        4. **Share Wisdom**: Actively contribute to the tech community by sharing my expertise, insights, and experiences, inspiring others to lead simpler, more fulfilling lives while leveraging technology's potential.
+        **Infrastructure**
+        - IaaC: Terraform, Ansible
+        - Container: Docker, Kubernetes
+        - CICD: Github Action, Gitlab CI
+        - Cloud Platform: AWS, GCP
         
         Please reach out to collaborate 😃
   - block: collection
