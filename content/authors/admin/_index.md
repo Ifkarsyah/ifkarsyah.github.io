@@ -41,10 +41,6 @@ profiles:
     url: https://twitter.com/ifkarsyah
   - icon: brands/instagram
     url: https://www.instagram.com/ifkarsyah
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
 
 interests:
   - System Design
@@ -89,6 +85,7 @@ work:
       - Setup data infrastructure
       - Cost optimization
       - Knowledge sharing
+
       Accomplishments: 
       - Achieved $7,400 monthly cost reduction by transitioning Trino from multizone to active-standby architecture.
       - Provisioned Kubernetes cluster from scratch, and migrated Trino from EMR, resulting in 80% cost reduction
@@ -144,10 +141,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Chess
         description: ''
         percent: 100
-        icon: cat
+        icon: scale
       - name: Photography
         description: ''
         percent: 80
