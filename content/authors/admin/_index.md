@@ -163,21 +163,21 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: '(National) First Place, Tokopedia DevCamp 2021'
+  - title: '[National] First Place, Tokopedia DevCamp 2021'
     url: https://academy.tokopedia.com/events/dev-camp/
     date: '2021-09-01'
     awarder: Tokopedia
     icon: tokopedia
     summary: |
       Won the hackathon competition out of 4000 contestants by creating \href{https://github.com/ifkarsyah/pasin}{Pasin}, a web service to recommend the best clothing sizes for marketplace customers.
-  - title: 'Finalist, SEA Compfest 2020'
+  - title: '[National] Finalist, SEA Compfest 2020'
     url: https://compfest.id/
     date: '2020-08-01'
     awarder: edX
     icon: edx
     summary: |
       Selected as one of 20 participants from more than 600 applicants to study agile software engineering, docker, microservices, docker, and DevOps. 
-  - title: 'Finalist, ACM-ICPC Asia Jakarta Regional 2019'
+  - title: '[Regional] Finalist, ACM-ICPC Asia Jakarta 2019'
     url: https://competition.binus.ac.id/icpc2019/
     certificate_url: https://competition.binus.ac.id/icpc2019/
     date: '2019-08-01'
