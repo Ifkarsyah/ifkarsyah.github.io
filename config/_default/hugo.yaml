@@ -45,6 +45,8 @@ taxonomies:
   author: authors
   tag: tags
   publication_type: publication_types
+  domain: domains
+  tool: tools
 markup:
   _merge: deep
   highlight:

@@ -8,6 +8,8 @@ tags:
   - Hugo
   - Hugo Blox
   - Markdown
+domains:
+  - Personal Knowledge Management
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---

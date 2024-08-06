@@ -19,3 +19,7 @@ main:
   - name: Blogs
     url: /blogs
     weight: 50
+  - name: Data Engineering
+    url: /blogs/categories
+    parent: Blogs
+    weight: 51
