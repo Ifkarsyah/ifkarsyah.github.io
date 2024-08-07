@@ -65,7 +65,7 @@ education:
       url: 'https://example.com'
 work:
   - position: Fazz
-    company_name: Data Infrastructure Engineer 2
+    company_name: Senior Data Engineer
     company_url: 'https://fazz.com/'
     company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckxZrcZeAqB1rHHE60WdukB5KAg0q_1hk0w&s'
     date_start: 2024-05-01
