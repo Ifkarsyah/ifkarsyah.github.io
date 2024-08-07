@@ -173,7 +173,7 @@ awards:
     awarder: Tokopedia
     icon: tokopedia
     summary: |
-      Won the hackathon competition out of 4000 contestants by creating \href{https://github.com/ifkarsyah/pasin}{Pasin}, a web service to recommend the best clothing sizes for marketplace customers.
+      Won the hackathon competition out of 4000 contestants by creating Pasin, a web service to recommend the best clothing sizes for marketplace customers.
   - title: '[National] Finalist, SEA Compfest 2020'
     url: https://compfest.id/
     date: '2020-08-01'
