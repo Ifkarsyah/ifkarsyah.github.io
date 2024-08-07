@@ -10,6 +10,8 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
+<img src="featured.png" width="200" height="200" />
+
 ## Introduction to Airflow
 Apache Airflow is an open-source tool to programmatically author, schedule, and monitor workflows. It allows you to define workflows as code, making them easy to maintain, version, and track.
 
