@@ -121,18 +121,22 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Data Engineering
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: devicon/apachespark
+      - name: Backend Development
+        description: ''
+        percent: 80
+        icon: devicon/postman
+      - name: Database
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/postgresql
+      - name: Infrastructure
+        description: ''
+        percent: 40
+        icon: devicon/kubernetes
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,7 +148,7 @@ skills:
       - name: Chess
         description: ''
         percent: 100
-        icon: scale
+        icon: academicons/springer
       - name: Photography
         description: ''
         percent: 80
