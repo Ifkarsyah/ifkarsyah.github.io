@@ -64,8 +64,8 @@ education:
       text: 'Read Final Thesis'
       url: 'https://example.com'
 work:
-  - position: Fazz
-    company_name: Senior Data Engineer
+  - position: Senior Data Engineer
+    company_name: Fazz
     company_url: 'https://fazz.com/'
     company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckxZrcZeAqB1rHHE60WdukB5KAg0q_1hk0w&s'
     date_start: 2024-05-01
@@ -115,6 +115,45 @@ work:
       - Integrated 2000+ lines of custom Python ETL code contributed by multiple users into a centralized library.
       - Developed a Web UI to team’s data platform using Flask API and Retool, reducing manual ticket by 90%.
       - Ingested 100+ tables from PostgreSQL and MongoDB across the companies into data lakehouse.
+  - position: Software Engineer Intern
+    company_name: Shopee
+    company_url: 'https://shopee.co.id/'
+    company_logo: 'https://seeklogo.com/images/S/shopee-logo-DD5CAE562A-seeklogo.com.png'
+    date_start: 2020-05-01
+    date_end: 2020-08-01
+    summary: |
+      Accomplishments:
+      - Increased redeem token insertion operation throughput on share and win service by using bulk-insertion.
+      - Researched groupcache peer-to-peer caching library as Redis alternative to be used for internal services.
+      - Tech stacks used: Golang, MySQL, MongoDB, Google PubSub, Redis
+  - position: Backend Developer Intern
+    company_name: Cicil
+    company_url: 'https://www.cicil.co.id/'
+    company_logo: 'https://fintech.id//storage/files/shares/LOGO-LOGO%20MEMBER%20FINTECH/CICIL.png'
+    date_start: 2019-06-01
+    date_end: 2019-08-01
+    summary: |
+      Accomplishments:
+      - Researched and refactored Cicil Jobs module to Clean Architecture.
+      - Tech stacks used: Golang, RabbitMQ, RedisResearched
+  - position: Software Developer Intern
+    company_name: Zenius
+    company_url: 'https://www.zenius.net/'
+    company_logo: 'https://www.zenius.net/_next/image?url=%2Flogo%2FzeniusIconWithOutline.png&w=750&q=75'
+    date_start: 2018-05-01
+    date_end: 2018-07-01
+    summary: |
+      Accomplishments:
+      - Learned fundamental web development and software engineering concepts using Clojure.
+      - Tech stacks used: clojure, luminus, compojure, pedestal, swagger.
+  - position: Informatics Division Coordinator
+    company_name: SMAN 1 Depok
+    company_url: 'https://sman1depok.sch.id/'
+    company_logo: 'https://sman1depok.sch.id/wp-content/uploads/2020/05/LOGO-SMANSA.png'
+    date_start: 2015-07-01
+    date_end: 2016-06-01
+    summary: |
+      Tutored Olympiad Club member to prepare for OSN Komputer and other programming competition.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -141,18 +180,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: globe-asia-australia
       - name: Chess
         description: ''
         percent: 100
         icon: academicons/springer
-      - name: Photography
+      - name: Football
         description: ''
         percent: 80
-        icon: camera
+        icon: person-simple-walk
 
 languages:
   - name: English
