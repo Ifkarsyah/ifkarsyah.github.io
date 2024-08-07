@@ -36,7 +36,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/ifkarsyah
   - icon: brands/linkedin
-    url: https://www.linkedin.com/ifkarsyah
+    url: https://www.linkedin.com/in/ifkarsyah/
   - icon: brands/x
     url: https://twitter.com/ifkarsyah
   - icon: brands/instagram
