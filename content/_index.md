@@ -26,24 +26,25 @@ sections:
         I am a versatile engineer with extensive experience in backend development, data engineering, and infrastructure management. My tech stack reflects my expertise in various technologies and tools that ensure efficient, scalable, and reliable systems. Here's a detailed overview of my chosen tech stack:
         
         **Data Engineering**
-        - Batch Pipeline: [Apache Spark](courses/spark), [Apache Airflow](courses/airflow), dbt
-        - Streaming Pipeline: [Apache Kafka](courses/kafka), [Apache Flink](courses/flink)
-        - File Format: [Apache Parquet](courses/parquet), Protobuf, Thrift
-        - Table Format: [Delta Lake](courses/deltalake), [Apache Iceberg](courses/iceberg)
-        - Query Engine: Trino, [BigQuery](courses/bigquery)
+        - Batch Pipeline: Spark, Airflow, dbt
+        - Streaming Pipeline: Kafka, Flink
+        - File Format: Parquet, Protobuf, Thrift
+        - Table Format: Delta Lake, Iceberg, Hudi
+        - Query Engine: Trino, BigQuery
 
         **Backend Engineering**
-        - Language: Python, [Go](courses/golang), Java, Node.js
-        - API: REST, [gRPC](courses/grpc)
-        - Database: [PostgreSQL](courses/postgres), [MongoDB](courses/mongodb)
-        - Search Engine: [Elasticsearch](courses/elasticsearch)
-        - Services Communication: [Apache Kafka](courses/kafka), RabbitMQ
+        - Language: Python, Go, Java, Node.js
+        - API: REST, gRPC
+        - Database: PostgreSQL, MongoDB
+        - Search Engine: Elasticsearch
+        - Cache: Redis
+        - Services Communication: Kafka, RabbitMQ
 
         **Infrastructure**
-        - IaaC: [Terraform](courses/terraform), Ansible
-        - Container: [Docker](courses/docker), [Kubernetes](couses/kubernetes)
-        - CICD: Github Action, Gitlab CI
         - Cloud Platform: AWS, GCP
+        - Container: Docker, Kubernetes
+        - IaaC: Terraform, Ansible
+        - CICD: Github Action, Gitlab CI
         
         Please reach out to collaborate 😃
   - block: collection
