@@ -1,11 +1,11 @@
 ---
-title: Pasin
-date: 2021-11-20
-external_link: https://github.com/ifkarsyah/pasin
+title: Kanjigen
+date: 2021-09-23
+external_link: https://github.com/ifkarsyah/kanjigen
 tags:
-  - Fullstack
+  - Graph Analytics
 ---
 
-Pasin a web service to recommend the best clothing sizes for marketplace customers. This project made me and my team the first winner of the Tokopedia DevCamp hackathon competition out of 4,000 contestants.
+Kanjigen is a program that search for finding route between 2 set of kanji(a graph node). The first set of nodes is supposed as starting node, and the second set of nodes is a target.
 
 <!--more-->

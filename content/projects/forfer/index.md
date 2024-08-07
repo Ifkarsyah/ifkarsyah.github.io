@@ -1,11 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Forfer
+date: 2018-05-01
+external_link: https://github.com/ifkarsyah/forfer-forumr
 tags:
   - Fullstack
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Kaskus-like forum with basic authentication system created with Python and Django web framework.
 
 <!--more-->

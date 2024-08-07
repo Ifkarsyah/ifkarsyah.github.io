@@ -1,11 +1,9 @@
 ---
-title: Pandas
-date: 2020-01-14
-external_link: https://github.com/ifkarsyah/forfer-forum
+title: Pasin
+date: 2021-10-14
+external_link: https://github.com/ifkarsyah/pasin
 tags:
   - Fullstack
 ---
 
-Typical forum with basic authentication system. Created with Django.
-
-<!--more-->
+Pasin a web service to recommend the best clothing sizes for marketplace customers. This project made me and my team the first winner of the Tokopedia DevCamp hackathon competition out of 4,000 contestants.
