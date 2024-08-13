@@ -13,9 +13,12 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Courses
-    url: courses/
+  - name: Knowledge Garden
+    url: https://ifkarsyah-garden.pages.dev/
     weight: 40
-  - name: Blogs
-    url: /blogs
-    weight: 50
+  # - name: Courses
+  #   url: courses/
+  #   weight: 40
+  # - name: Blogs
+  #   url: /blogs
+  #   weight: 50
