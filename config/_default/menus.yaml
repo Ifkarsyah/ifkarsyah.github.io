@@ -19,6 +19,15 @@ main:
   - name: Reading
     url: /reading
     weight: 50
-  - name: Writing
-    url: /writing
+  - name: Tutorial
+    identifier: tutorial
+    url: /tutorial
     weight: 60
+  - name: Flink
+    url: /tutorial-flink
+    parent: tutorial
+    weight: 70
+  - name: Kafka
+    url: /tutorial-kafka
+    parent: tutorial
+    weight: 80
