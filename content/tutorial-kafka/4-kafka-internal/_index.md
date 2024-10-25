@@ -16,5 +16,6 @@ sections:
 ---
 
 
-fdakfjdsalkjfa;dsl
-fdjakfljs
+https://kafka.apache.org/blog
+https://kafka.apache.org/project
+- How file are stored internally in Kafka?
