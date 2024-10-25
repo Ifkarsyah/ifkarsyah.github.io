@@ -10,15 +10,15 @@ main:
   - name: Resume
     url: resume/
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Portofolio
+    url: portofolio/
     weight: 30
   - name: Knowledge Garden
     url: https://ifkarsyah-garden.pages.dev/
     weight: 40
-  # - name: Courses
-  #   url: courses/
-  #   weight: 40
-  # - name: Blogs
-  #   url: /blogs
-  #   weight: 50
+  - name: Reading
+    url: /reading
+    weight: 50
+  - name: Writing
+    url: /writing
+    weight: 60
