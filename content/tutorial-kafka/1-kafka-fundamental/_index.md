@@ -41,4 +41,4 @@ Potential benefit: job market, career promotion
 Calculating ROI: if positive learn, if not skip.
 Learning how to learn: 
 - pick your role: development or operations
-- 
+
