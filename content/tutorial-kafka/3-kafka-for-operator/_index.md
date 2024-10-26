@@ -1,5 +1,5 @@
 ---
-title: 3. Kafka for SRE
+title: 3. Kafka for Operator
 summary: My courses
 type: docs
 

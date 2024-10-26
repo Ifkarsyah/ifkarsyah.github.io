@@ -21,7 +21,7 @@ Over time, Kafka became popular as a more powerful alternative to older message 
 
 - In **RabbitMQ**, a traditional queue, the broker **pushes** messages to consumers as soon as they’re available. This push model prioritizes real-time message delivery, which is ideal for immediate processing and task-based workflows but doesn’t support message replay or as much control over consumption speed.
 
-## Major Change throughout the years
+## Evolution of Kafka throughout the years
 
 - **Initial Release (2011)**: Kafka was released as an open-source project by LinkedIn, establishing the core concepts of topics, producers, and consumers.
 - **High Availability and Fault Tolerance (2012)**: Version 0.8 introduced replication and partitioning, enhancing fault tolerance and data redundancy.
