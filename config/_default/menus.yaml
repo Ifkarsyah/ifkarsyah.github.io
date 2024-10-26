@@ -23,11 +23,12 @@ main:
     identifier: tutorial
     url: /tutorial
     weight: 60
-  - name: Flink
+  - name: Apache Flink
     url: /tutorial-flink
     parent: tutorial
-    weight: 70
-  - name: Kafka
+  - name: Apache Kafka
     url: /tutorial-kafka
     parent: tutorial
-    weight: 80
+  - name: PostgreSQL
+    url: /tutorial-postgresql
+    parent: tutorial
