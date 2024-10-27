@@ -13,10 +13,14 @@ main:
   - name: Portofolio
     url: portofolio/
     weight: 30
-  - name: Knowledge Garden
-    url: https://ifkarsyah-garden.pages.dev/
+  # - name: Knowledge Garden
+  #   url: https://ifkarsyah-garden.pages.dev/
+  #   weight: 40
+  - name: Choosing Tool
+    identifier: choosing-tool
+    url: /choosing-tool
     weight: 40
-  - name: Reading
+  - name: Book resume
     url: /reading
     weight: 50
   - name: Tutorial
