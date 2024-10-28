@@ -1,11 +1,11 @@
 ---
-title: 2. Postgresql for Developers
+title: 2. PostgreSQL for Developers
 summary: PostgreSQL for Developer
 type: docs
 
 sections:
   - block: collection
-    id: courses
+    id: postgres
     content:
       title: Courses
       filters:
@@ -15,6 +15,7 @@ sections:
       view: article-grid
 ---
 
+aas
 - Advanced SQL Techniques: Complex queries, window functions, CTEs, and aggregate functions.
 - Data Modeling for Applications: Tips for modeling data that scales and suits application logic.
 - JSON and JSONB: Working with semi-structured data, best practices, and performance tips.

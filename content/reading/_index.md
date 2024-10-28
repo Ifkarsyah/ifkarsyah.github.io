@@ -13,6 +13,5 @@ sections:
         folders:
           - reading
     design:
-      view: list
       columns: '2'
 ---

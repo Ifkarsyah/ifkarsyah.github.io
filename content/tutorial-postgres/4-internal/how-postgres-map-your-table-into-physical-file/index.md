@@ -1,5 +1,6 @@
 ---
 title: How PostgreSQL maps your tables into physical files
+type: docs
 ---
 
 

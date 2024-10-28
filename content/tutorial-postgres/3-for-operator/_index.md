@@ -1,5 +1,5 @@
 ---
-title: 4. postgres Internal
+title: 3. Postgres for Operator
 summary: My courses
 type: docs
 
